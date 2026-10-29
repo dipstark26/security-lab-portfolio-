@@ -1,6 +1,6 @@
 # Security Lab Portfolio — Dipak Kakade
 
-B.E. AI & Data Science (2027) | Microsoft SC-200 certified | Aspiring security tester
+B.E. AI & Data Science (2027) | Microsoft SC-200 certified | Aspiring security tester|
 All testing was done in authorized lab environments (PortSwigger Web Security Academy).
 
 ## Write-ups
