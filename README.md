@@ -17,3 +17,5 @@ Access control, authentication and API testing labs; OWASP ZAP on Juice Shop
 
 ## Contact
 dipstark1437@gmail.com | [LinkedIn](https://linkedin.com/in/dipak-kakade-946444252)
+
+| Python script | HTTP security headers checker | [scripts/](scripts/) |
